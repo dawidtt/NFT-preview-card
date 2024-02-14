@@ -21,6 +21,7 @@ body {
 }
 #top {
     border-radius: 20px;
+    position: relative;
 }
 #main-container #top img {
     max-width: 100%;
